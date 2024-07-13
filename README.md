@@ -18,7 +18,7 @@ command and control of the speed of an electronic scooter with a mobile app usin
 
 
 ## mobile app interface
-![alt text]
+![alt text](https://github.com/activif99/Command-and-control-of-an-electronic-scooter-using-a-mobile-app/blob/main/Mobile_app/app_UI.jpg)
 
 we developped the mobile using MitAppInventor since this tool has a ready to use MQTT librarie which made our life easier.
 
