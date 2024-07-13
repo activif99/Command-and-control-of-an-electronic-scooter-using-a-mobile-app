@@ -14,8 +14,7 @@ command and control of the speed of an electronic scooter with a mobile app usin
   
 
 ## Maquette
-
- ![alt text]
+ ![alt text](https://github.com/activif99/Command-and-control-of-an-electronic-scooter-using-a-mobile-app/blob/main/MAQUETTE.jpeg)
 
 
 ## mobile app interface
