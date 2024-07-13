@@ -2,7 +2,7 @@
 command and control of the speed of an electronic scooter with a mobile app using ESP32
 
 ## Project overview
-
+ ![alt text](https://github.com/activif99/Command-and-control-of-an-electronic-scooter-using-a-mobile-app/blob/main/PROJECT_OVERVIEW.PNG)
 
 
 
