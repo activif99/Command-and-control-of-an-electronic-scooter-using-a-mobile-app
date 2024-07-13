@@ -23,4 +23,4 @@ command and control of the speed of an electronic scooter with a mobile app usin
 we developped the mobile using MitAppInventor since this tool has a ready to use MQTT librarie which made our life easier.
 
 ## check the file Rapport(final) for the full details of the project
-![alt text]
+https://github.com/activif99/Command-and-control-of-an-electronic-scooter-using-a-mobile-app/blob/main/Rapport(final).pdf
